@@ -1,16 +1,14 @@
-# store_flutter_progect
+# Project "weather_application"
 
-A new Flutter project.
+## Description
+This project is designed to display current weather and multi-day forecast using Flutter Weather package. Users can find out information about temperature, humidity, wind speed, sunrise and sunset times and other weather conditions.
 
-## Getting Started
+## Functionality
+- Display of current weather.
+- Information about minimum and maximum temperature, humidity, wind speed and other weather parameters.
+- Sunrise and sunset times for the user's current location.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+The project uses the following technologies:
+- Flutter for user interface development.
+- Weather package for obtaining weather data.
